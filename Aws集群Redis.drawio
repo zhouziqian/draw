@@ -1,52 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T07:11:59.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="NJfkSdlo9M9OPIcPrV2p" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T07:23:22.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="H6Tt0uu0qLMZMCNXVXIu" version="24.4.4" type="github">
   <diagram name="第 1 页" id="Zw_Xd7DbwDs_5MI2PyQ_">
-    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="772" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--15" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--15" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="160" width="600" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--15">
           <mxGeometry width="600" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--4" value="" style="group" vertex="1" connectable="0" parent="ZuOCNiy7mxlITMTqRG9--15">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--4" value="" style="group;" vertex="1" connectable="0" parent="ZuOCNiy7mxlITMTqRG9--15">
           <mxGeometry x="40" y="80" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--4">
           <mxGeometry width="120" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--4">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--4">
           <mxGeometry x="35" y="9" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--3" value="Cluster-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--4">
           <mxGeometry x="30" y="51" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--5" value="" style="group" vertex="1" connectable="0" parent="ZuOCNiy7mxlITMTqRG9--15">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--5" value="" style="group;" vertex="1" connectable="0" parent="ZuOCNiy7mxlITMTqRG9--15">
           <mxGeometry x="240" y="80" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--5">
           <mxGeometry width="120" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--7" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--5">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--5">
           <mxGeometry x="35" y="9" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--8" value="Cluster-2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--5">
           <mxGeometry x="30" y="51" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--9" value="" style="group" vertex="1" connectable="0" parent="ZuOCNiy7mxlITMTqRG9--15">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--9" value="" style="group;" vertex="1" connectable="0" parent="ZuOCNiy7mxlITMTqRG9--15">
           <mxGeometry x="440" y="80" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--9">
           <mxGeometry width="120" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--11" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--9">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--9">
           <mxGeometry x="35" y="9" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--12" value="Cluster-3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--9">
           <mxGeometry x="30" y="51" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--14" value="Aws" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--15">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--14" value="Aws-old" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--15">
           <mxGeometry x="270" y="30" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.487;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.487;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ZuOCNiy7mxlITMTqRG9--13" target="ZuOCNiy7mxlITMTqRG9--17">
@@ -58,52 +58,52 @@
         <mxCell id="ZuOCNiy7mxlITMTqRG9--17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="480" width="600" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--18" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--18" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="180" y="560" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--18">
           <mxGeometry width="120" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--20" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--18">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--20" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--18">
           <mxGeometry x="35" y="9" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--21" value="Cluster-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--18">
           <mxGeometry x="30" y="51" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--22" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--22" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="470" y="560" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--22">
           <mxGeometry width="120" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--24" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--22">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--24" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--22">
           <mxGeometry x="35" y="9" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--25" value="Cluster-2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--22">
           <mxGeometry x="30" y="51" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--30" value="Aws" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--30" value="Aws-new" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="510" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--32" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--32" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="180" y="680" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--33" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--32">
           <mxGeometry width="120" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--34" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--32">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--34" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--32">
           <mxGeometry x="35" y="9" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--35" value="Slave-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--32">
           <mxGeometry x="30" y="51" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--36" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--36" value="" style="group;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="470" y="680" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--37" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--36">
           <mxGeometry width="120" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="ZuOCNiy7mxlITMTqRG9--38" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--36">
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--38" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--36">
           <mxGeometry x="35" y="9" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--39" value="Slave-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZuOCNiy7mxlITMTqRG9--36">
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="ZuOCNiy7mxlITMTqRG9--41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ZuOCNiy7mxlITMTqRG9--33" target="ZuOCNiy7mxlITMTqRG9--21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZuOCNiy7mxlITMTqRG9--42" value="1、备份Redis&lt;div&gt;2、统计每个Cluster中key的数量&lt;/div&gt;&lt;div&gt;3、删除Cluster-3&lt;/div&gt;&lt;div&gt;4、查看使用Redis服务的日志（Eureka、Auth、Config、Gateway、Job）&lt;/div&gt;&lt;div&gt;5、完成删除Cluster-3后对比Cluster1和Cluster2中所有key数量与原三个Cluster的数量&lt;/div&gt;&lt;div&gt;6、为Cluster-1和Cluster-2新增从节点&lt;/div&gt;&lt;div&gt;7、对比从节点与主节点的key数量&lt;/div&gt;&lt;div&gt;8、测试平台业务功能（Eureka登录、服务间远程调用）&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="200" width="340" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
