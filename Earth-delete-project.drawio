@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T09:26:32.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="RCRiGz7XHXkcCrwqT3IM" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T09:27:00.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1vMdKIuw2rNic0pkuJVM" version="24.5.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1194" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -83,6 +83,9 @@
         <mxCell id="52LDFo53aAOOZvcBzFZm-24" value="删除项目表" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="1210" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="52LDFo53aAOOZvcBzFZm-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="52LDFo53aAOOZvcBzFZm-26" target="52LDFo53aAOOZvcBzFZm-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="52LDFo53aAOOZvcBzFZm-26" value="邮件通知" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -91,6 +94,9 @@
         </mxCell>
         <mxCell id="52LDFo53aAOOZvcBzFZm-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Owner查询&lt;/h1&gt;&lt;div&gt;&lt;ol&gt;&lt;li&gt;查询管理员select u.id ,u.username,u.realname,u.email,u.mobilephone from sys_user u left join sys_user_role ur on u.id = ur.userid where ur.roleid = 1&lt;/li&gt;&lt;li&gt;查询项目owner select u.id ,u.username,u.realname,u.email,u.mobilephone from sys_user u left join project_permission pp on u.id = pp.uid where pp.permission &amp;gt;= 0 and pp.pid = ${pid}&lt;/li&gt;&lt;li&gt;&amp;nbsp;&lt;b&gt;邮件通知对象为管理员与项目owner&lt;/b&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="1040" width="450" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="52LDFo53aAOOZvcBzFZm-33" value="结束" style="ellipse;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="1480" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
