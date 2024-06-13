@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T05:53:38.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="sRRCGmCJLMbbMaUBWLAc" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T06:14:32.200Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ssGYxOl5BqNML1BI-PaP" version="24.5.2" type="github">
   <diagram name="第 1 页" id="CgU5GiZKHllhDWWJ-L2Z">
-    <mxGraphModel dx="2692" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3147" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -581,8 +581,8 @@
         <mxCell id="WIQYE3tA3X634Tk99d2Z-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#EA6B66;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WIQYE3tA3X634Tk99d2Z-137" target="WIQYE3tA3X634Tk99d2Z-63">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1180" y="1440" />
-              <mxPoint x="390" y="1440" />
+              <mxPoint x="1180" y="1470" />
+              <mxPoint x="390" y="1470" />
               <mxPoint x="390" y="1565" />
             </Array>
           </mxGeometry>
@@ -594,6 +594,9 @@
               <mxPoint x="-360" y="1400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WIQYE3tA3X634Tk99d2Z-164" value="&lt;ol&gt;&lt;li&gt;搭建NM F5&lt;/li&gt;&lt;li&gt;搭建NM nginx&lt;/li&gt;&lt;li&gt;变更：域名&lt;span style=&quot;background-color: initial; text-align: center;&quot; class=&quot;n&quot;&gt;api&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot; class=&quot;n&quot;&gt;unifiedcloud&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot; class=&quot;n&quot;&gt;lenovo&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;.&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot; class=&quot;n&quot;&gt;com指向NM F5&lt;/span&gt;&lt;/li&gt;&lt;li&gt;验证&lt;/li&gt;&lt;li&gt;回滚？&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="971" width="530" height="119" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
